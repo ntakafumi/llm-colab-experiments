@@ -16,7 +16,7 @@ NVFP4版はNVIDIA ModelOpt向けの量子化設定を含んでおり、通常の
 
 ## Notebook
 
-`Nemotron35_Lightning_Colab.ipynb`
+`Ch05_Nemotron35_Lightning.ipynb`
 
 Notebookの構成は、できるだけシンプルにしています。
 
@@ -105,4 +105,4 @@ Google Colaboratoryで実践するLLM・RAG・ファインチューニング』
 ## Links
 
 - Hugging Face: `nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16`
-- Notebook: `Nemotron35_Lightning_Colab.ipynb`
+- Notebook: `Ch05_Nemotron35_Lightning.ipynb`
