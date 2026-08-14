@@ -353,7 +353,7 @@ Google Colaboratoryで実践するLLM・RAG・ファインチューニング』
 ## Links
 
 - Gemma 4 E4B-it QAT mobile Transformers: `google/gemma-4-E4B-it-qat-mobile-transformers`
-- Notebook: `Gemma4_E4B_Multimodal_Colab_v4_fixed.ipynb`
+- Notebook: `Gemma4_E4B_Multimodal_Colab.ipynb`
 - 『ブラウザで動かすLLM実装入門』: https://amzn.asia/d/0dV4aYtC
 
 ---
