@@ -320,7 +320,7 @@ Google Colaboratoryで実践するLLM・RAG・ファインチューニング』
 
 - Muse Glimmer
 - llama.cpp: https://github.com/ggml-org/llama.cpp
-- Notebook: `Muse_Glimmer_30B_Colab_GGUF_Chat_v2.ipynb`
+- Notebook: `Muse_Glimmer_30B_Colab_GGUF_Chat.ipynb`
 - 『ブラウザで動かすLLM実装入門』: https://amzn.asia/d/0dV4aYtC
 
 ---
