@@ -75,7 +75,7 @@ Gradio
 
 ## Notebook
 
-`Muse_Glimmer_30B_Colab_GGUF_Chat_v2.ipynb`
+`Muse_Glimmer_30B_Colab_GGUF_Chat.ipynb`
 
 Notebookの構成は、以下のようになっています。
 
