@@ -27,7 +27,7 @@ Gemma 4 E4B-itは、テキストだけでなく画像・音声・動画を入力
 
 ## Notebook
 
-`Gemma4_E4B_Multimodal_Colab_v4_fixed.ipynb`
+`Gemma4_E4B_Multimodal_Colab.ipynb`
 
 Notebookの構成は、書籍で利用しているPhi-4 Notebookにできるだけ近づけています。
 
