@@ -22,7 +22,7 @@ Notebookでは、Hugging Face上のモデルを読み込む際にbitsandbytesに
 
 ## Notebook
 
-`DeepSeek_R1_0528_Qwen3_8B_Colab_4bit_Chat.ipynb`
+`DeepSeek-R1-0528.ipynb`
 
 Notebookの構成は、できるだけシンプルにしています。
 
