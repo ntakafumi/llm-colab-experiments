@@ -220,7 +220,7 @@ https://www.amazon.co.jp/dp/4295024813
 
 - Hugging Face: `deepseek-ai/DeepSeek-R1-0528-Qwen3-8B`
 - Hugging Face: https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
-- Notebook: `DeepSeek_R1_0528_Qwen3_8B_Colab_4bit_Chat.ipynb`
+- Notebook: `DeepSeek-R1-0528.ipynb`
 - 『ブラウザで動かすLLM実装入門』Amazon: https://www.amazon.co.jp/dp/4295024813
 
 ---
